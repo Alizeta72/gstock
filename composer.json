@@ -1,0 +1,16 @@
+{
+    "name": "kadi/gstock",
+    "autoload": {
+        "psr-4": {
+            "Kadi\\Gstock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kali"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}

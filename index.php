@@ -69,7 +69,7 @@
     </style>
     <div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
         <form class="border shadow p-3 rounded" action="" method="POST" style="width: 450px;">
-            <h1 class="text-center p-3">Connexion</h1>
+            <h1 class="text-center p-3">Connexions</h1>
             
             <?php  if (isset($_SESSION['message'])) { ?>
                     <div class="alert alert-danger" role="alert">
